@@ -1,6 +1,6 @@
 ### Binary-Search
 
-![Binary Search Algorithm](https://www.google.com/
+![binnary-search-pic.webp](https://www.google.com/
 https://media.geeksforgeeks.org/wp-content/uploads/20240506155201/binnary-search-.webp)
 
 ##Solution for leetcode  problem 704. Binary Search
