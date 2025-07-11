@@ -1,7 +1,6 @@
 ### Binary-Search
 
-![binnary-search-pic.webp](https://www.google.com/
-https://media.geeksforgeeks.org/wp-content/uploads/20240506155201/binnary-search-.webp)
+![binnary-search-pic.webp](https://media.geeksforgeeks.org/wp-content/uploads/20240506155201/binnary-search-.webp)
 
 ##Solution for leetcode  problem 704. Binary Search
   - Description: iven an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return       -1.
